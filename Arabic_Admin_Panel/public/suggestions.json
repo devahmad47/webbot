@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "65eefef0087dc0d14447497a",
+    "SugDiscription": "waoo",
+    "userId": {
+      "_id": "65e6d5d16da82f261b4b5f52",
+      "userName": "UMAIR Athar",
+      "email": "umairathar0007@gmail.com"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "65eefe99a31aa62daed4f40d",
+    "SugDiscription": "waoo",
+    "userId": {
+      "_id": "65e6d5d16da82f261b4b5f52",
+      "userName": "UMAIR Athar",
+      "email": "umairathar0007@gmail.com"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "65eefe34a31aa62daed4f40a",
+    "SugDiscription": "excellent",
+    "userId": {
+      "_id": "65e6d5d16da82f261b4b5f52",
+      "userName": "UMAIR Athar",
+      "email": "umairathar0007@gmail.com"
+    },
+    "__v": 0
+  }
+]
